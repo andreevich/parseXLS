@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "xlsjs": "latest",
+	"mssql":"latest"
+  }
+}
